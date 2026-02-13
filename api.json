@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/atmospheric-beasts",
     "maintainers": [
       {
@@ -18,374 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "atmospheric-beasts",
     "name": "Atmospheric Beasts",
-    "aliases": [
-      {
-        "name": "Sky Beasts",
-        "meaning": "Alternative term emphasizing aerial nature"
-      },
-      {
-        "name": "Atmospheric Life Forms",
-        "meaning": "Scientific-sounding designation"
-      },
-      {
-        "name": "Aerial Jellyfish",
-        "meaning": "Descriptive comparison to marine organisms"
-      }
-    ],
-    "category": "CRYPTID",
-    "subcategory": "Theoretical Life Form",
+    "aliases": [],
+    "category": "CRYPTID_(THEORETICAL)",
+    "subcategory": "Atmospheric/Aerial",
     "tags": [
-      "theoretical",
-      "atmospheric",
-      "aerial",
-      "speculative",
-      "no-evidence",
-      "ufo-related",
-      "cryptozoology"
+      "folklore",
+      "mythology"
     ],
-    "status": "speculative",
+    "status": "documented",
     "description": {
-      "summary": "Hypothetical life forms theorized to live permanently in Earth's atmosphere, never touching the ground. A speculative concept with no credible evidence.",
-      "full": "Atmospheric Beasts are hypothetical organisms proposed to inhabit Earth's atmosphere on a permanent basis, floating or flying without ever landing. The concept, popularized by Ivan Sanderson in the 1960s and referenced by Charles Fort, suggests creatures analogous to marine plankton or jellyfish that drift in air currents. Theoretical descriptions include lightweight, gas-filled bodies, potentially translucent or invisible, living at various atmospheric altitudes. Proponents have attempted to link UFO sightings and video artifacts called 'rods' to these creatures. However, the concept faces severe scientific problems: no credible evidence exists, atmospheric conditions would be hostile to complex life, and no apparent food source or evolutionary pathway is evident. The idea remains purely speculative within cryptozoology."
+      "summary": "Atmospheric Beasts are hypothetical organisms proposed to inhabit Earth's atmosphere on a permanent basis, floating or flying without ever landing.",
+      "full": "Atmospheric Beasts are hypothetical organisms proposed to inhabit Earth's atmosphere on a permanent basis, floating or flying without ever landing. The concept, popularized by Ivan Sanderson in the 1960s and referenced earlier by Charles Fort, suggests creatures analogous to marine plankton or jellyfish that drift in air currents."
     },
     "etymology": {
-      "origin": "Term popularized by cryptozoologist Ivan T. Sanderson in the 1960s",
-      "meaning": "Beasts (creatures) living in the atmosphere (air)",
-      "first_use": "1960s (Sanderson); concept referenced earlier by Charles Fort"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "CRYPTID",
-      "type": "Theoretical Life Form",
-      "subtype": "Atmospheric/Aerial",
-      "variant": "Purely Speculative"
+      "category": "CRYPTID_(THEORETICAL)",
+      "type": "Atmospheric/Aerial",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "ufos",
-        "name": "UFOs/UAP",
-        "relationship": "misidentification",
-        "description": "Some UFO sightings theorized to be atmospheric beasts"
-      },
-      {
-        "id": "rods",
-        "name": "Rods (Flying Rods)",
-        "relationship": "video_artifacts",
-        "description": "Video artifacts misidentified as atmospheric creatures; actually insects"
-      },
-      {
-        "id": "plasma-life",
-        "name": "Plasma Life Forms",
-        "relationship": "related_speculation",
-        "description": "Another theoretical atmospheric entity"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
-    "theoretical": {
-      "note": "All characteristics are purely theoretical/speculative with no observational basis",
-      "proposed_features": [
-        {
-          "feature": "Lightweight bodies",
-          "description": "Bodies filled with lighter-than-air gases (hydrogen, helium) for buoyancy",
-          "speculation_level": "high"
-        },
-        {
-          "feature": "Translucent or invisible",
-          "description": "Potentially transparent or camouflaged, explaining lack of observation",
-          "speculation_level": "high"
-        },
-        {
-          "feature": "Aerial jellyfish-like",
-          "description": "Morphology compared to jellyfish drifting in ocean currents",
-          "speculation_level": "high"
-        },
-        {
-          "feature": "Variable size",
-          "description": "Proposed sizes from microscopic to massive (whale-sized)",
-          "speculation_level": "extreme"
-        },
-        {
-          "feature": "Gas bladders",
-          "description": "Internal gas-filled chambers for altitude control",
-          "speculation_level": "high"
-        }
-      ]
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "proposed_types": {
-      "note": "Categorizations are purely imaginative",
-      "categories": [
-        {
-          "type": "Floaters",
-          "description": "Passive drifters like aerial plankton, carried by wind currents",
-          "proposed_behavior": "No active locomotion; passive atmospheric drift"
-        },
-        {
-          "type": "Hunters",
-          "description": "Active predators feeding on smaller atmospheric life",
-          "proposed_behavior": "Theoretical pursuit of smaller floaters"
-        },
-        {
-          "type": "Filter-feeders",
-          "description": "Organisms filtering microscopic particles from air",
-          "proposed_behavior": "Analogous to baleen whales filtering ocean water"
-        }
-      ]
-    },
-    "habitat_theoretical": {
-      "proposed_altitudes": [
-        "Low atmosphere (near surface)",
-        "Mid-atmosphere (several thousand feet)",
-        "Upper atmosphere (stratosphere - highly speculative)"
-      ],
-      "problems": [
-        "Temperature extremes at altitude",
-        "Low oxygen at high altitudes",
-        "Intense UV radiation",
-        "Lack of water source",
-        "No shelter from weather"
-      ]
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
-  "supposed_evidence": {
-    "note": "No credible evidence exists; listed items are misidentifications or artifacts",
-    "claimed": [
-      {
-        "type": "UFO sightings",
-        "description": "Some UFO sightings theorized to be atmospheric beasts",
-        "actual_explanation": "Conventional aircraft, balloons, atmospheric phenomena, misidentifications",
-        "credibility": "none"
-      },
-      {
-        "type": "Rods (Flying Rods)",
-        "description": "Video artifacts showing elongated aerial objects",
-        "actual_explanation": "Motion blur of flying insects, bird wings, camera shutter speed artifacts",
-        "credibility": "none - definitively explained"
-      },
-      {
-        "type": "Mysterious aerial phenomena",
-        "description": "Unexplained lights, shapes, or movements in sky",
-        "actual_explanation": "Various atmospheric phenomena, optical illusions, conventional objects",
-        "credibility": "none"
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
       }
-    ],
-    "physical_evidence": {
-      "specimens": "None",
-      "photographs": "None (alleged photos are misidentifications)",
-      "video": "None (alleged videos are artifacts or known objects)",
-      "biological_samples": "None"
     }
   },
-
   "history": {
     "origins": {
-      "intellectual_roots": "Speculative thinking about unexplored ecological niches; Victorian-era fascination with undiscovered worlds",
-      "charles_fort": "Charles Fort (1874-1932) made references to potential aerial organisms in his writings on anomalous phenomena",
-      "ivan_sanderson": "Ivan T. Sanderson popularized the concept in the 1960s as part of cryptozoological speculation"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "1920s-1930s",
-        "event": "Charles Fort references",
-        "significance": "Fort mentions possibility of aerial life in his compilations of anomalous phenomena",
-        "source": "Fort's books (The Book of the Damned, etc.)"
-      },
-      {
-        "date": "1960s",
-        "event": "Ivan Sanderson popularizes concept",
-        "significance": "Sanderson develops idea of atmospheric beasts as cryptozoological possibility",
-        "source": "Sanderson's writings"
-      },
-      {
-        "date": "1990s-2000s",
-        "event": "'Rods' phenomenon",
-        "significance": "Video artifacts interpreted as atmospheric creatures; later debunked as insects",
-        "source": "Amateur videographers, later scientific analysis"
-      },
-      {
-        "date": "2000s",
-        "event": "Scientific debunking of 'rods'",
-        "significance": "High-speed photography proves 'rods' are motion blur of insects",
-        "source": "Scientific testing, including by Ohtsuki Lab"
-      },
-      {
-        "date": "Present",
-        "event": "Concept remains speculative",
-        "significance": "No evidence has emerged; remains purely theoretical speculation",
-        "source": "Current cryptozoology status"
-      }
-    ]
+    "timeline": []
   },
-
-  "scientific_problems": {
-    "fundamental_issues": [
-      {
-        "problem": "No evidence whatsoever",
-        "description": "Despite ubiquitous cameras and aviation, no credible evidence of atmospheric life has been documented",
-        "severity": "critical"
-      },
-      {
-        "problem": "No food source",
-        "description": "Unclear what large atmospheric organisms would eat; atmosphere lacks organic material concentration",
-        "severity": "critical"
-      },
-      {
-        "problem": "Hostile environment",
-        "description": "Atmosphere presents extreme temperatures, UV radiation, lack of water, and low oxygen at altitude",
-        "severity": "high"
-      },
-      {
-        "problem": "No evolutionary pathway",
-        "description": "No plausible evolutionary origin for complex atmospheric-only organisms",
-        "severity": "high"
-      },
-      {
-        "problem": "Radar and detection",
-        "description": "Modern radar, satellites, and aircraft would detect large atmospheric organisms",
-        "severity": "critical"
-      },
-      {
-        "problem": "Atmospheric chemistry",
-        "description": "Earth's atmosphere lacks the dissolved nutrients present in oceans that support marine plankton",
-        "severity": "critical"
-      },
-      {
-        "problem": "Reproduction and life cycle",
-        "description": "No mechanism proposed for reproduction, development, or population maintenance",
-        "severity": "high"
-      }
-    ],
-    "scientific_consensus": "The concept of atmospheric beasts has no scientific support. Earth's atmosphere lacks the characteristics necessary to support complex life forms living permanently aloft. No credible evidence exists despite extensive atmospheric monitoring."
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
-  "rods_phenomenon": {
-    "description": "Video artifacts appearing as elongated, fast-moving objects with wing-like appendages",
-    "history": "Popularized in 1990s by amateur videographers who interpreted artifacts as unknown aerial creatures",
-    "explanation": "Motion blur of flying insects (particularly moths and flies) combined with camera shutter speed and frame rate",
-    "debunking": [
-      {
-        "method": "High-speed photography",
-        "result": "Revealed 'rods' are insects captured across multiple frames",
-        "researchers": "Ohtsuki Lab (Japan), various investigators"
-      },
-      {
-        "method": "Controlled experiments",
-        "result": "Recreated 'rod' effect using insects and standard cameras",
-        "researchers": "Multiple skeptical researchers"
-      }
-    ],
-    "status": "Definitively explained as video artifacts; not atmospheric beasts"
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "speculative": [
-      {
-        "name": "Aerial Plankton Analogy",
-        "description": "Large organisms drift in atmosphere like plankton in ocean",
-        "proponents": ["Ivan Sanderson", "speculative cryptozoologists"],
-        "problems": [
-          "Atmosphere lacks dissolved nutrients",
-          "No evidence",
-          "Hostile environment"
-        ]
-      },
-      {
-        "name": "Invisible/Translucent Life",
-        "description": "Creatures are transparent or refractive, making them invisible",
-        "proponents": ["Speculative theorists"],
-        "problems": [
-          "Ad hoc explanation for lack of evidence",
-          "No biological precedent for large invisible animals",
-          "Would still be detected by radar, thermal imaging"
-        ]
-      },
-      {
-        "name": "UFO Biological Explanation",
-        "description": "Some UFO sightings are actually atmospheric beasts",
-        "proponents": ["Some UFO researchers"],
-        "problems": [
-          "No evidence linking UFOs to biological entities",
-          "Most UFOs have conventional explanations",
-          "Circular reasoning"
-        ]
-      }
-    ],
-    "scientific_rejection": {
-      "consensus": "No scientific support for atmospheric beasts",
-      "reasons": [
-        "Complete absence of evidence",
-        "Atmospheric environment unsuitable for complex life",
-        "No proposed mechanism for evolution, nutrition, or reproduction",
-        "Contradicts established biology and ecology"
-      ]
-    }
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
-    "cryptozoology": {
-      "status": "Speculative fringe concept even within cryptozoology",
-      "acceptance": "Low; most cryptozoologists focus on terrestrial or aquatic unknowns",
-      "significance": "Example of highly speculative theorizing without evidentiary basis"
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "science_fiction": "Concept occasionally appears in science fiction (Arthur C. Clarke's 'A Meeting with Medusa', etc.)",
-      "internet": "Periodic internet discussions and YouTube videos claiming evidence (usually misidentified phenomena)",
-      "media": "Occasional coverage on paranormal and cryptozoology programs"
-    },
-    "ufology": {
-      "connection": "Some UFO enthusiasts link sightings to atmospheric beasts",
-      "status": "Minority view within already fringe field"
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "conclusion": {
-    "status": "SPECULATIVE - No credible evidence",
-    "summary": "Atmospheric Beasts remain purely hypothetical with no scientific support. The concept faces insurmountable problems including complete lack of evidence, hostile atmospheric environment, absence of food sources, and no plausible evolutionary pathway. Supposed evidence (UFO sightings, 'rods') has been explained through conventional means. The idea persists as speculative cryptozoology but has no basis in observed reality.",
-    "likelihood": "Effectively zero based on current scientific understanding and complete absence of evidence"
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "fort-1919",
-      "type": "book",
-      "title": "The Book of the Damned",
-      "authors": ["Charles Fort"],
-      "publication": "Boni & Liveright",
-      "date": "1919",
-      "notes": "Early speculative references to aerial phenomena"
-    },
-    {
-      "id": "sanderson-1960s",
-      "type": "writings",
-      "title": "Various writings on atmospheric beasts",
-      "authors": ["Ivan T. Sanderson"],
-      "date": "1960s",
-      "notes": "Popularized the concept in cryptozoology"
-    },
-    {
-      "id": "ohtsuki-2005",
-      "type": "research",
-      "title": "Analysis of 'rods' phenomenon",
-      "authors": ["Ohtsuki Lab"],
-      "date": "2005",
-      "notes": "Scientific debunking of 'rods' as insect motion blur"
-    },
-    {
-      "id": "eberhart-2002",
-      "type": "book",
-      "title": "Mysterious Creatures: A Guide to Cryptozoology",
-      "authors": ["George M. Eberhart"],
-      "publication": "ABC-CLIO",
-      "date": "2002",
-      "isbn": "978-1576072837"
-    }
-  ]
+  "sources": []
 }
